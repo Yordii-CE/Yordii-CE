@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Yordii-CE
-- 👀 I’m interested  mucho el ingles y todo tipo de retos.
-- 🌱 I’m currently learning Estructura de datos con C#, JS avanzado e Ingles.
-- 💞️ I’m looking to colaborar  en proyectos que me sumen experiencia y que me obligen a esforzarme mentalmente.
-- 📫Pueden contactarme a traves de mi cuenta de GitHub.
+- 👀 I’m interested all kinds of projects.
+- 🌱 I’m currently learning JS advanced and English.
+- 💞️ I'm looking to collaborate in projects of any level, the big ones are my favorites.
+- 📫You can contact me through my GitHub account.
 
 <!---
 Yordii-CE/Yordii-CE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
