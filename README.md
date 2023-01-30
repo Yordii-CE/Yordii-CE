@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yordii-CE
 - 👀 I’m interested all kinds of projects.
-- 🌱 I’m currently learning JS advanced and English.
+- 🌱 I’m currently learning Next.js, English and French.
 - 💞️ I'm looking to collaborate in projects of any level, the big ones are my favorites.
 - 📫You can contact me through my GitHub account.
 
