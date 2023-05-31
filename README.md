@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Yordii 👋
 
 Welcome to my GitHub profile! I'm a passionate developer interested in all kinds of projects. Currently, I'm focused on learning AI and improving my English skills. I'm open to collaborating on projects of any level, so feel free to reach out and connect with me.
 
