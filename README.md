@@ -2,4 +2,4 @@
 - 👀 I’m interested all kinds of projects.
 - 🌱 I’m currently learning IA and English.
 - 💞️ I'm looking to collaborate in projects of any level.
-- 📫You can contact me through my GitHub account.
+- 📫 You can contact me through my GitHub account.
