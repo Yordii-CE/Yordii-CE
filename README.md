@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate developer interested in all kinds
 
 I'm constantly working on expanding my knowledge and honing my skills in various areas. Some of my current projects include:
 
-- [EasyFlow](https://github.com/Yordii-CE/easyflow) : Open source framework for backend creation and REST APIs using MVC architecture pattern in the style of MVC ASP.NET.
+- [EasyFlow](https://github.com/Yordii-CE/easyflow) : Open source PHP framework for backend creation and REST APIs using MVC architecture pattern in the style of MVC ASP.NET.
 
 Feel free to explore my repositories to learn more about my work.
 
